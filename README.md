@@ -18,9 +18,7 @@ california-housing-analysis/
 \`\`\`
 
 ## Установка
-\`\`\`bash
 pip install -r requirements.txt
-\`\`\`
 
 ## Использование
 1. Создайте данные: \`python src/download_california_data.py\`
@@ -32,3 +30,4 @@ pip install -r requirements.txt
 - Обнаружение и обработка выбросов
 - Визуализация распределений
 - Работа с категориальными переменными
+
