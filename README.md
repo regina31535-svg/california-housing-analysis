@@ -3,20 +3,6 @@
 ## Описание проекта
 Проект по очистке и анализу данных о недвижимости Калифорнии. Включает полный цикл анализа данных от загрузки до визуализации.
 
-## Структура проекта
-\`\`\`
-california-housing-analysis/
-├── data/
-│   ├── raw/           # Исходные данные
-│   └── processed/     # Очищенные данные
-├── notebooks/
-│   └── 02_california_housing_cleaning.ipynb
-├── src/
-│   └── download_california_data.py
-├── requirements.txt
-└── README.md
-\`\`\`
-
 ## Установка
 pip install -r requirements.txt
 
@@ -30,4 +16,5 @@ pip install -r requirements.txt
 - Обнаружение и обработка выбросов
 - Визуализация распределений
 - Работа с категориальными переменными
+
 
